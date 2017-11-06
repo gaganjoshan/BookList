@@ -1,4 +1,4 @@
-# Basix BookList using Redux
+# Basic BookList using Redux
 
   yarn install
   npm start
